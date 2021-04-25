@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="35eb056d6ab64211859c35ce64c20f6f" Name="Diagram1">
+        <EntityTypeShape EntityType="LearnWebApiTodayModel.Course" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="LearnWebApiTodayModel.Student" Width="1.5" PointX="3" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="LearnWebApiTodayModel.Trainer" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <AssociationConnector Association="LearnWebApiTodayModel.FK__Student__CourseI__38996AB5" ManuallyRouted="true" >
+          <ConnectorPoint PointX="2.25" PointY="2.1439925130208337" />
+          <ConnectorPoint PointX="2.4975" PointY="2.1439925130208337" />
+          <ConnectorPoint PointX="2.4975" PointY="1.8002425130208337" />
+          <ConnectorPoint PointX="2.7525" PointY="1.8002425130208337" />
+          <ConnectorPoint PointX="2.7525" PointY="2.1439925130208337" />
+          <ConnectorPoint PointX="3" PointY="2.1439925130208337" />
+        </AssociationConnector>
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

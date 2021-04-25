@@ -1,0 +1,178 @@
+C:\Users\senin\source\repos\stage3\truYumWebApi\obj\Debug\truYumWebApi.csprojAssemblyReference.cache
+C:\Users\senin\source\repos\stage3\truYumWebApi\obj\Debug\truYumWebApi.csproj.CoreCompileInputs.cache
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\truYumWebApi.dll.config
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\truYumWebApi.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\truYumWebApi.pdb
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\csc.exe
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\csc.exe.config
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\csc.rsp
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\csi.exe
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\csi.exe.config
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\csi.rsp
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.Console.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.Net.Http.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\vbc.exe
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\vbc.exe.config
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\vbc.rsp
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\Antlr3.Runtime.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\EntityFramework.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\Newtonsoft.Json.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\System.Web.Helpers.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\System.Web.Http.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\System.Web.Mvc.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\System.Web.Optimization.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\System.Web.Razor.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\System.Web.WebPages.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\WebGrease.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\EntityFramework.xml
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\Newtonsoft.Json.xml
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\System.Web.Helpers.xml
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\System.Web.Http.xml
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\System.Web.Mvc.xml
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\System.Web.Optimization.xml
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\System.Web.Razor.xml
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\System.Web.WebPages.xml
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\senin\source\repos\stage3\truYumWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\senin\source\repos\stage3\truYumWebApi\obj\Debug\truYumWebApi.csproj.CopyComplete
+C:\Users\senin\source\repos\stage3\truYumWebApi\obj\Debug\truYumWebApi.dll
+C:\Users\senin\source\repos\stage3\truYumWebApi\obj\Debug\truYumWebApi.pdb
+D:\webapi handson\truYumWebApi\bin\truYumWebApi.dll.config
+D:\webapi handson\truYumWebApi\bin\truYumWebApi.dll
+D:\webapi handson\truYumWebApi\bin\truYumWebApi.pdb
+D:\webapi handson\truYumWebApi\bin\roslyn\csc.exe
+D:\webapi handson\truYumWebApi\bin\roslyn\csc.exe.config
+D:\webapi handson\truYumWebApi\bin\roslyn\csc.rsp
+D:\webapi handson\truYumWebApi\bin\roslyn\csi.exe
+D:\webapi handson\truYumWebApi\bin\roslyn\csi.exe.config
+D:\webapi handson\truYumWebApi\bin\roslyn\csi.rsp
+D:\webapi handson\truYumWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\webapi handson\truYumWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\webapi handson\truYumWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\webapi handson\truYumWebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.AppContext.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.Console.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.Globalization.Calendars.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.IO.Compression.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.Net.Http.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.Net.Sockets.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.ValueTuple.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.Xml.XPath.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\webapi handson\truYumWebApi\bin\roslyn\vbc.exe
+D:\webapi handson\truYumWebApi\bin\roslyn\vbc.exe.config
+D:\webapi handson\truYumWebApi\bin\roslyn\vbc.rsp
+D:\webapi handson\truYumWebApi\bin\roslyn\VBCSCompiler.exe
+D:\webapi handson\truYumWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\webapi handson\truYumWebApi\bin\Antlr3.Runtime.dll
+D:\webapi handson\truYumWebApi\bin\EntityFramework.dll
+D:\webapi handson\truYumWebApi\bin\EntityFramework.SqlServer.dll
+D:\webapi handson\truYumWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\webapi handson\truYumWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\webapi handson\truYumWebApi\bin\Newtonsoft.Json.dll
+D:\webapi handson\truYumWebApi\bin\System.Net.Http.Formatting.dll
+D:\webapi handson\truYumWebApi\bin\System.Web.Helpers.dll
+D:\webapi handson\truYumWebApi\bin\System.Web.Http.dll
+D:\webapi handson\truYumWebApi\bin\System.Web.Http.WebHost.dll
+D:\webapi handson\truYumWebApi\bin\System.Web.Mvc.dll
+D:\webapi handson\truYumWebApi\bin\System.Web.Optimization.dll
+D:\webapi handson\truYumWebApi\bin\System.Web.Razor.dll
+D:\webapi handson\truYumWebApi\bin\System.Web.WebPages.Deployment.dll
+D:\webapi handson\truYumWebApi\bin\System.Web.WebPages.dll
+D:\webapi handson\truYumWebApi\bin\System.Web.WebPages.Razor.dll
+D:\webapi handson\truYumWebApi\bin\WebGrease.dll
+D:\webapi handson\truYumWebApi\bin\EntityFramework.xml
+D:\webapi handson\truYumWebApi\bin\EntityFramework.SqlServer.xml
+D:\webapi handson\truYumWebApi\bin\Newtonsoft.Json.xml
+D:\webapi handson\truYumWebApi\bin\System.Net.Http.Formatting.xml
+D:\webapi handson\truYumWebApi\bin\System.Web.Helpers.xml
+D:\webapi handson\truYumWebApi\bin\System.Web.Http.xml
+D:\webapi handson\truYumWebApi\bin\System.Web.Http.WebHost.xml
+D:\webapi handson\truYumWebApi\bin\System.Web.Mvc.xml
+D:\webapi handson\truYumWebApi\bin\System.Web.Optimization.xml
+D:\webapi handson\truYumWebApi\bin\System.Web.Razor.xml
+D:\webapi handson\truYumWebApi\bin\System.Web.WebPages.xml
+D:\webapi handson\truYumWebApi\bin\System.Web.WebPages.Deployment.xml
+D:\webapi handson\truYumWebApi\bin\System.Web.WebPages.Razor.xml
+D:\webapi handson\truYumWebApi\bin\Antlr3.Runtime.pdb
+D:\webapi handson\truYumWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\webapi handson\truYumWebApi\obj\Debug\truYumWebApi.csprojAssemblyReference.cache
+D:\webapi handson\truYumWebApi\obj\Debug\truYumWebApi.csproj.CoreCompileInputs.cache
+D:\webapi handson\truYumWebApi\obj\Debug\truYumWebApi.csproj.CopyComplete
+D:\webapi handson\truYumWebApi\obj\Debug\truYumWebApi.dll
+D:\webapi handson\truYumWebApi\obj\Debug\truYumWebApi.pdb
